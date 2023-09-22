@@ -1,4 +1,2 @@
-Hello world!
-Bu branchda deyishdirildi
-2ci branchdan gelen yazi
+Revert
 
